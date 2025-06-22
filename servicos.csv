@@ -1,2 +1,3 @@
 Data,Hora,Cliente,Local do Serviço,Empresa Contratante,Contratador,Valor Acordado,Valor do Pedágio,Distância (KM),Valor do KM,Valor Hora Extra (>3h),Observações
 2025-06-22,09:00,Cliente Exemplo,Rua das Flores,Empresa XYZ,João Silva,300,20,50,2,50,Serviço de manutenção
+2025-06-25,14:00,João Souza,Rua Central,Empresa ABC,Maria Lima,350,30,70,2,60,Suporte técnico remoto
